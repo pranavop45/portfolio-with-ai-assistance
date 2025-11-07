@@ -1,3 +1,8 @@
+<img width="1919" height="914" alt="Screenshot 2025-11-07 195636" src="https://github.com/user-attachments/assets/6b9f4ee2-4955-4fba-8eb9-40fa18faed73" />
+
+<img width="1182" height="896" alt="Screenshot 2025-11-07 194723" src="https://github.com/user-attachments/assets/c05c2f6c-95cd-4ef3-bd94-da4b544ae166" />
+
+
 <h1 align="center">🚀 Pranav Kadam | Portfolio + AI Assistance 🤖</h1>
 
 <p align="center">
