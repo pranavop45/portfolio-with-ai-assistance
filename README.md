@@ -58,7 +58,7 @@ It features a built-in **J.A.R.V.I.S AI assistant** that can chat, guide, and in
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/pranavop45/portfolio-ai-assistance.git
+git clone https://github.com/pranavop45/portfolio-with-ai-assistance.git
 
 # 2️⃣ Move into the folder
 cd portfolio-ai-assistance
